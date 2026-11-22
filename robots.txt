@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://l-etang-la-ville-78620.maisonvalet.fr/sitemap.xml
